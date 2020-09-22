@@ -1,0 +1,13 @@
+[History]
+B0=Investments/InvestmentsForm/GetInformationGrid
+B1=Investments/InvestmentsForm/CreateRegistryKeys
+B2=Investments/InvestmentsForm/Command3_Click
+B3=Investments/AddSymbols/GetList
+B4=Investments/InvestmentsForm/SetSelectedProfile
+B5=Investments/InvestmentsForm/GetSelectedProfile
+B6=Investments/InvestmentsForm/BuildList
+B7=Investments/InvestmentsForm/RefreshList
+B8=Investments/InvestmentsForm/BuildHeaders
+B9=Investments/InvestmentsForm/ComboProfile_Click
+B10=Investments/AddSymbols
+B11=Investments/InvestmentsForm/Form_Load
